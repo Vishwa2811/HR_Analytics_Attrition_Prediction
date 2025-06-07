@@ -43,11 +43,11 @@ HR_Analytics_Attrition_Prediction/
 
 
 ##  Deliverables
-- ✅ Machine learning model with 85% accuracy
-- ✅ Confusion matrix & classification report
-- ✅ SHAP-based feature importance
-- ✅ Power BI dashboard with filters & charts
-- ✅ PDF with prevention strategy suggestions
+-  Machine learning model with 85% accuracy
+-  Confusion matrix & classification report
+-  SHAP-based feature importance
+-  Power BI dashboard with filters & charts
+-  PDF with prevention strategy suggestions
 
 
 
